@@ -1,7 +1,8 @@
 # virtualpen
 Realizada a criação de uma caneta virtual utilizando python em conjunto com processamento de imagens
 
-Esse projeto foi parte de um trabalho realizado durante a materia de processamento de imagens na qual o codigo ja existia no site https:// learnopencv.com/creating-a-virtual-pen-and-eraser-with-opencv/
+Esse projeto foi parte de um trabalho realizado durante a materia de processamento de imagens na qual o codigo ja existia no site 
+- https:// learnopencv.com/creating-a-virtual-pen-and-eraser-with-opencv/
 
 
 # instalação
@@ -17,3 +18,6 @@ Python 3.11
 - pip install --no-binary :all: opencv-python
 - pip install numpy
 - pip install time-python
+
+# link do tuturial explicando o mesmo 
+- https://youtu.be/RsDO_EcVrBE
